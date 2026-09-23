@@ -1,0 +1,55 @@
+# ======================
+# Node.js
+# ======================
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ======================
+# Environment variables
+# ======================
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# ======================
+# Build output
+# ======================
+dist/
+build/
+out/
+
+# ======================
+# Logs
+# ======================
+logs/
+*.log
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+!.vscode/extensions.json
+
+# ======================
+# Git
+# ======================
+# .gitignore
+
+# ======================
+# Misc
+# ======================
+coverage/
+.cache/
